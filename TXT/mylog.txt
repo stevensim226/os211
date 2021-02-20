@@ -3,3 +3,6 @@
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 10 L03 GitHub related
 ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 20 L01 SCELE related
+ZCZC W00 60 L26 Movie: relax, etc.
