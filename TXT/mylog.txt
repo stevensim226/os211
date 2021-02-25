@@ -11,3 +11,4 @@ ZCZC W00 30 L05 GSGS related
 ZCZC W00 10 L23 Discord: discussion, etc.
 ZCZC W00 60 L06 Reading References/Books/Documents
 ZCZC W00 85 L02 ZOOM related
+ZCZC W00 10 L23 Discord: discussion, etc.
