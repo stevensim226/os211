@@ -1,0 +1,22 @@
+title:       "Operating Systems 2021-1 (OS211)"
+version:     "0027---27-Feb-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-6"
+author:           "Steven"
+address:          "North Jakarta"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://stevensim226.github.io/os211/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/stevensim226/os211/"
+urlghpage:        "https://stevensim226.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
