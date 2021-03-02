@@ -15,3 +15,7 @@ ZCZC W00 10 L23 Discord: discussion, etc.
 ZCZC W00 60 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 60 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W00 60 L99 Fix old laptop for VirtualBox access
+
+ZCZC W01 90 L01 SCELE related
+ZCZC W01 180 L02 ZOOM related
+ZCZC W01 120 L06 Reading References/Books/Documents
