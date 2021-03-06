@@ -21,3 +21,4 @@ ZCZC W01 180 L02 ZOOM related
 ZCZC W01 120 L06 Reading References/Books/Documents
 ZCZC W01 60 L04 GitHub Pages: setting, etc.
 ZCZC W01 40 L06 Reading References/Books/Documents
+ZCZC W01 20 L08 Trying something
