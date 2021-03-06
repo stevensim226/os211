@@ -24,3 +24,4 @@ ZCZC W01 40 L06 Reading References/Books/Documents
 ZCZC W01 20 L08 Trying something
 ZCZC W01 180 L06 Reading References/Books/Documents
 ZCZC W01 60 L08 Trying something
+ZCZC W01 20 L21 VirtualBox: install GNU/Linux, etc.
