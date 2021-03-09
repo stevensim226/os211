@@ -27,3 +27,5 @@ ZCZC W01 60 L08 Trying something
 ZCZC W01 20 L21 VirtualBox: install GNU/Linux, etc
 ZCZC W01 20 L23 Asked something on discord and discussed with friends there
 ZCZC W01 60 L09 TA assistance session
+
+ZCZC W01 40 L08 Trial and error C language
