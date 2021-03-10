@@ -31,4 +31,11 @@ ZCZC W01 60 L09 TA assistance session
 ZCZC W02 40 L08 Trial and error C language
 ZCZC W02 30 L01 Pop quiz
 ZCZC W02 150 L02 Sync for W02 (C language, SHA256 signs, etc.)
+ZCZC W02 60 L08 Try bash scripting and create gpg keys
 ZCZC W02 15 L08 Try import and export OVA file
+ZCZC W02 30 L25 Learn from tutorials about C pointers
+ZCZC W02 60 L05 GSGS for Top 10 materials
+ZCZC W02 120 L06 Reading articles to understand more about OS security concepts
+ZCZC W02 60 L05 More GSGS for top 10 materials
+ZCZC W02 60 L22 ATM on youtube for GPG/PGP stuff and more understanding
+ZCZC W02 90 L04 Write and find top 10 for week 2, though still not final
