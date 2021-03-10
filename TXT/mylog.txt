@@ -31,3 +31,4 @@ ZCZC W01 60 L09 TA assistance session
 ZCZC W02 40 L08 Trial and error C language
 ZCZC W02 30 L01 Pop quiz
 ZCZC W02 150 L02 Sync for W02 (C language, SHA256 signs, etc.)
+ZCZC W02 15 L08 Try import and export OVA file
