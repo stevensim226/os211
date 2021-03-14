@@ -1,12 +1,40 @@
 #!/bin/bash
-# Steven - 1906293322 - OS211
-# Written by Cicak bin Kadal
-# documented by Steven
-# Tue 07 Mar 2021 08:46:00 AM WIB
-# Docs: 10 Mar 2021 Mar 2021 18:45:00 AM WIB
+# Copyright (C) 2020-2021 Cicak Bin Kadal
+# https://www.youtube.com/watch?v=KAXK07ni9gU
 
-FILES="my*.txt my*.sh"
+# This free document is distributed in the hope that it will be 
+# useful, but WITHOUT ANY WARRANTY; without even the implied 
+# warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+# REV03 Sun 14 Mar 18:21:27 WIB 2021
+# REV02 Fri 12 Mar 13:40:58 WIB 2021
+# REV01 Tue 13 Oct 10:37:14 WIB 2020
+# START Mon 28 Sep 21:05:04 WIB 2020
+
+REC1="operatingsystems@vlsm.org"
+REC2="cbk@dummy"
+FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
+
+[ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
+pushd $HOME/RESULT
+for II in W?? ; do
+    [ -d $II ] || continue
+    TARFILE=my$II.tar.bz2
+    TARFASC=$TARFILE.asc
+    rm -f $TARFILE $TARFASC
+    echo "tar cfj $TARFILE $II/"
+    tar cfj $TARFILE $II/
+    echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
+    gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
+done
+popd
+
+rm -f $HOME/RESULT/fakeDODOL
+for II in $HOME/RESULT/myW*.tar.bz2.asc $HOME/RESULT/fakeDODOL ; do
+   echo "Check and move $II..."
+   [ -f $II ] && mv -f $II .
+done
 
 # Remove old SHA256 files
 echo "rm -f $SHA $SHA.asc"
@@ -30,4 +58,4 @@ gpg --verify $SHA.asc $SHA
 
 exit 0
 
-# Tue Mar 09 08:46:00 WIB 2021
+
