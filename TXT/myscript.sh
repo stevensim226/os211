@@ -12,7 +12,7 @@
 # START Mon 28 Sep 21:05:04 WIB 2020
 
 REC1="operatingsystems@vlsm.org"
-REC2="cbk@dummy"
+REC2="stevensim226@gmail.com"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
