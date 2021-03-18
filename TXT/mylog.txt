@@ -42,3 +42,5 @@ ZCZC W02 60 L05 GSGS related to C stuff
 ZCZC W02 20 L08 Trying new myscript.sh and understanding it
 ZCZC W03 100 L02 Sync class session
 ZCZC W03 30 L08 Trying mounting
+ZCZC W03 120 L05 GSGS file system facts
+ZCZC W03 60 L15 Partial top 10 list
