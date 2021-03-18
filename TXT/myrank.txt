@@ -2,3 +2,6 @@
 ZCZC W01 Trigonometr1
 ZCZC W01 X1non
 ZCZC W01 tsanaativa
+ZCZC W02 tsanaativa
+ZCZC W02 vadimbhirawa
+ZCZC W02 vandhya
