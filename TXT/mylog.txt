@@ -40,4 +40,5 @@ ZCZC W02 90 L04 Write and find top 10 for week 2, though still not final
 ZCZC W02 20 L09 AsDos: asking, etc.
 ZCZC W02 60 L05 GSGS related to C stuff
 ZCZC W02 20 L08 Trying new myscript.sh and understanding it
-
+ZCZC W03 100 L02 Sync class session
+ZCZC W03 30 L08 Trying mounting
