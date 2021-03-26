@@ -53,3 +53,5 @@ ZCZC W03 120 L08 Trying bbfs and FUSE W03 demo
 ZCZC W04 120 L06 watch SI's OS lecture recording by Pak Anwar
 ZCZC W04 90 L05 GSGS on virtual memory
 ZCZC W04 60 L07 Demo W04 on C pointers
+ZCZC W04 120 L02 Weekly zoom lecture
+ZCZC W04 60 L08 Trying W04 assignment
