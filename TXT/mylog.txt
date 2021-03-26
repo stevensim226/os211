@@ -55,3 +55,6 @@ ZCZC W04 90 L05 GSGS on virtual memory
 ZCZC W04 60 L07 Demo W04 on C pointers
 ZCZC W04 120 L02 Weekly zoom lecture
 ZCZC W04 60 L08 Trying W04 assignment
+ZCZC W04 180 L05 GSGS and self study on W04 materials
+ZCZC W04 90 L14 Create top 10 and write ideas
+ZCZC W04 60 L13 Read neighbours' top 10

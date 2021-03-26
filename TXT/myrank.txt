@@ -5,3 +5,6 @@ ZCZC W01 tsanaativa
 ZCZC W02 tsanaativa
 ZCZC W02 vadimbhirawa
 ZCZC W02 vandhya
+ZCZC W03 Trigonometr1
+ZCZC W03 veniche
+ZCZC W03 vandhya
