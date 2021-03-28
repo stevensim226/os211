@@ -58,3 +58,4 @@ ZCZC W04 60 L08 Trying W04 assignment
 ZCZC W04 180 L05 GSGS and self study on W04 materials
 ZCZC W04 90 L14 Create top 10 and write ideas
 ZCZC W04 60 L13 Read neighbours' top 10
+ZCZC W04 30 L08 try new bash myscript script
