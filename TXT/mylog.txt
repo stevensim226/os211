@@ -61,3 +61,4 @@ ZCZC W04 60 L13 Read neighbours' top 10
 ZCZC W04 30 L08 try new bash myscript script
 ZCZC W05 120 L02 Weekly zoom lecture
 ZCZC W05 120 L05 Try low memory and Week 05 assignment
+ZCZC W05 45 L06 Read W04 top 10 and create myrank.txt
