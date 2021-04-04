@@ -59,3 +59,5 @@ ZCZC W04 180 L05 GSGS and self study on W04 materials
 ZCZC W04 90 L14 Create top 10 and write ideas
 ZCZC W04 60 L13 Read neighbours' top 10
 ZCZC W04 30 L08 try new bash myscript script
+ZCZC W05 120 L02 Weekly zoom lecture
+ZCZC W05 120 L05 Try low memory and Week 05 assignment
