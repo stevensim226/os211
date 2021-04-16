@@ -69,3 +69,4 @@ ZCZC W05 50 L21 Explore about CLI only mode boot for debian
 ZCZC W06 120 L02 Zoom sync meeting
 ZCZC W06 120 L07 Try and GSGS demo W06 materialsI
 ZCZC W06 40 L06 Read neighbours' top 10 and create myrank.txt
+ZCZC W06 40 L14 Week 06 assignment and read what's done with the script
