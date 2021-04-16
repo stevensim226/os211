@@ -66,3 +66,6 @@ ZCZC W05 180 L05 GSGS for top 10
 ZCZC W05 120 L13 Write top 10 and insights about each material
 ZCZC W05 90 L12 Read neighbours' top 10 list
 ZCZC W05 50 L21 Explore about CLI only mode boot for debian
+ZCZC W06 120 L02 Zoom sync meeting
+ZCZC W06 120 L07 Try and GSGS demo W06 materialsI
+ZCZC W06 40 L06 Read neighbours' top 10 and create myrank.txt
