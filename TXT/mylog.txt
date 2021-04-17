@@ -67,6 +67,11 @@ ZCZC W05 120 L13 Write top 10 and insights about each material
 ZCZC W05 90 L12 Read neighbours' top 10 list
 ZCZC W05 50 L21 Explore about CLI only mode boot for debian
 ZCZC W06 120 L02 Zoom sync meeting
-ZCZC W06 120 L07 Try and GSGS demo W06 materialsI
+ZCZC W06 120 L07 Try and GSGS demo W06 materials
 ZCZC W06 40 L06 Read neighbours' top 10 and create myrank.txt
 ZCZC W06 40 L14 Week 06 assignment and read what's done with the script
+ZCZC W06 60 L07 More demo and GSGS about concurrency
+ZCZC W06 180 L05 GSGS on W06 top 10 and materials
+ZCZC W06 90 L13 Write top 10 for W06
+ZCZC W06 40 L25 Explore about C's process library functions
+ZCZC W06 40 L25 Explore more on threading in java
