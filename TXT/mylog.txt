@@ -75,3 +75,6 @@ ZCZC W06 180 L05 GSGS on W06 top 10 and materials
 ZCZC W06 90 L13 Write top 10 for W06
 ZCZC W06 40 L25 Explore about C's process library functions
 ZCZC W06 40 L25 Explore more on threading in java
+ZCZC W07 120 L02 Sync meeting for W07
+ZCZC W07 40 L12 Read neighbours' top 10 list and compile myrank
+ZCZC W07 80 L14 Do W07 assignment from osp4diss and tar file
