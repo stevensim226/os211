@@ -14,3 +14,6 @@ ZCZC W04 tsanaativa
 ZCZC W05 vandhya
 ZCZC W05 veniche
 ZCZC W05 sunnysani
+ZCZC W06 Trigonometr1
+ZCZC W06 sunnysani
+ZCZC W06 X1non
