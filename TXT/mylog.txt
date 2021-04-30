@@ -77,4 +77,8 @@ ZCZC W06 40 L25 Explore about C's process library functions
 ZCZC W06 40 L25 Explore more on threading in java
 ZCZC W07 120 L02 Sync meeting for W07
 ZCZC W07 40 L12 Read neighbours' top 10 list and compile myrank
-ZCZC W07 80 L14 Do W07 assignment from osp4diss and tar file
+ZCZC W07 80 L14 Do W07 assignment from osp4diss and tar fileI
+ZCZC W07 60 L01 Popquiz on Scele
+ZCZC W07 120 L05 GSGS and self study about deadlocks and race condition
+ZCZC W07 180 L13 Write top 10 for W07
+ZCZC W07 150 L07 Try demo for W07 and GSGS the materials related
