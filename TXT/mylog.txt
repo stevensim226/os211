@@ -82,7 +82,12 @@ ZCZC W07 60 L01 Popquiz on Scele
 ZCZC W07 120 L05 GSGS and self study about deadlocks and race condition
 ZCZC W07 180 L13 Write top 10 for W07
 ZCZC W07 150 L07 Try demo for W07 and GSGS the materials related
+ZCZC W08 60 L01 Popquiz by lecturer
 ZCZC W08 120 L02 Sync meeting for W08 scheduling and LFS
 ZCZC W08 40 L12 Read neighbours' top 10 list and write top 3
 ZCZC W08 180 L05 Do LFS chapter 1 - 4 and read them thoroughly
 ZCZC W08 20 L05 LFS fix something
+ZCZC W08 120 L05 GSGS more on what is LFS and self study
+ZCZC W08 180 L12 Create top 10 on scheduling
+ZCZC W08 60 L01 Scele popquiz
+ZCZC W08 40 L23 Discuss w/ friends about LFS
