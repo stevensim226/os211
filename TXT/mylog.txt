@@ -91,3 +91,6 @@ ZCZC W08 120 L05 GSGS more on what is LFS and self study
 ZCZC W08 180 L12 Create top 10 on scheduling
 ZCZC W08 60 L01 Scele popquiz
 ZCZC W08 40 L23 Discuss w/ friends about LFS
+ZCZC W09 120 L02 Sync meeting for W09 about LFS
+ZCZC W09 120 L01 Pop quiz by Pak RMS and asdos
+ZCZC W09 90 L05 try doing LFS but failed too many times :(
